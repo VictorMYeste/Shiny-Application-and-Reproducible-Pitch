@@ -1,0 +1,11 @@
+name: shiny-application-and-reproducible-pitch
+title:
+username:
+account: victoryeste
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4821373
+bundleId: 5114858
+url: https://victoryeste.shinyapps.io/shiny-application-and-reproducible-pitch/
+when: 1633621964.66122
+lastSyncTime: 1633621964.66123
